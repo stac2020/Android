@@ -1,79 +1,34 @@
 {
   "project_info": {
-    "project_number": "799946369370",
-    "firebase_url": "https://smarteen-93059.firebaseio.com",
-    "project_id": "smarteen-93059",
-    "storage_bucket": "smarteen-93059.appspot.com"
+    "project_number": "352813968727",
+    "firebase_url": "https://chuck-chu.firebaseio.com",
+    "project_id": "chuck-chu",
+    "storage_bucket": "chuck-chu.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:799946369370:android:a0f2ca69675dd29db9ab63",
+        "mobilesdk_app_id": "1:352813968727:android:95bc10840329bbb2372212",
         "android_client_info": {
           "package_name": "com.chuck_chu"
         }
       },
       "oauth_client": [
         {
-          "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
+          "client_id": "352813968727-05f4t9sdas6kibr7otb4pl094vpme0q8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDbdyDrJ9a2MRsKsR5liaEC1YxEVvlDgS0"
+          "current_key": "AIzaSyBZZ9_ZCu64BRmRQ4ylEvJ_fC11eemd3iE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:799946369370:android:6f1eb896c91d5885b9ab63",
-        "android_client_info": {
-          "package_name": "com.example.chuck_chu"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "799946369370-chocpira2ieegfq2lc4eprnhv60t5pf4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.chuck_chu",
-            "certificate_hash": "8ba6e273c4850f2271a5dc9c223d08e5f3d74603"
-          }
-        },
-        {
-          "client_id": "799946369370-590814qa0kv06ad8vd0avsq3uib661bt.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.chuck_chu",
-            "certificate_hash": "303a265c4b8fb016fe450617d84d35c42bdd9eae"
-          }
-        },
-        {
-          "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDbdyDrJ9a2MRsKsR5liaEC1YxEVvlDgS0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
+              "client_id": "352813968727-05f4t9sdas6kibr7otb4pl094vpme0q8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
