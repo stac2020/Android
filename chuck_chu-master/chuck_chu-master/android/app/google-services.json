@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799946369370",
+    "firebase_url": "https://smarteen-93059.firebaseio.com",
+    "project_id": "smarteen-93059",
+    "storage_bucket": "smarteen-93059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799946369370:android:6f1eb896c91d5885b9ab63",
+        "android_client_info": {
+          "package_name": "com.example.chuck_chu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdyDrJ9a2MRsKsR5liaEC1YxEVvlDgS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799946369370-lm129d3bb4k23go0jneievqmqgh6ufdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
